@@ -63,11 +63,11 @@ At <strong>Acumen Virtue</strong>, we specialize in creating modern, scalable, a
 
 ## 🔄 Our Development Process
 
-    1. 📞 Requirement Gathering & Analysis  
-    2. 📝 Wireframing & Design  
-    3. 🛠️ Development (Frontend + Backend)  
-    4. ✅ Testing & Quality Assurance  
-    5. 🚀 Deployment & Maintenance
+ 1. 📞 Requirement Gathering & Analysis
+ 2. 📝 Wireframing & Design
+ 3. 🛠️ Development (Frontend + Backend)
+ 4. ✅ Testing & Quality Assurance
+ 5. � Deployment & Maintenance
 
 ---
 
